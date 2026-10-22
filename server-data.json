@@ -1,0 +1,95 @@
+{
+  "leaderboard": [
+    {
+      "id": "gm_magnus",
+      "username": "Magnus K.",
+      "elo": 2840,
+      "wins": 412,
+      "losses": 38,
+      "draws": 110,
+      "matchesPlayed": 560,
+      "lastActive": 1792235257758
+    },
+    {
+      "id": "gm_hikaru",
+      "username": "Hikaru N.",
+      "elo": 2815,
+      "wins": 388,
+      "losses": 45,
+      "draws": 95,
+      "matchesPlayed": 528,
+      "lastActive": 1792231657758
+    },
+    {
+      "id": "gm_nodirbek",
+      "username": "Nodirbek A.",
+      "elo": 2780,
+      "wins": 295,
+      "losses": 50,
+      "draws": 75,
+      "matchesPlayed": 420,
+      "lastActive": 1792224457758
+    },
+    {
+      "id": "nordic_bot",
+      "username": "Nordic AI Master",
+      "elo": 2650,
+      "wins": 1540,
+      "losses": 210,
+      "draws": 310,
+      "matchesPlayed": 2060,
+      "lastActive": 1792238857758
+    },
+    {
+      "id": "player_erik",
+      "username": "Erik Lindqvist",
+      "elo": 1820,
+      "wins": 84,
+      "losses": 32,
+      "draws": 18,
+      "matchesPlayed": 134,
+      "lastActive": 1792152457758
+    },
+    {
+      "id": "player_astrid",
+      "username": "Astrid V.",
+      "elo": 1640,
+      "wins": 56,
+      "losses": 28,
+      "draws": 12,
+      "matchesPlayed": 96,
+      "lastActive": 1792118857758
+    },
+    {
+      "id": "player_freja",
+      "username": "Freja Berg",
+      "elo": 1450,
+      "wins": 42,
+      "losses": 30,
+      "draws": 8,
+      "matchesPlayed": 80,
+      "lastActive": 1791988857758
+    },
+    {
+      "id": "user_1792238945663_9e0i3",
+      "username": "Tactician_523",
+      "elo": 1200,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "matchesPlayed": 0,
+      "lastActive": 1792238945851
+    }
+  ],
+  "profiles": {
+    "user_1792238945663_9e0i3": {
+      "id": "user_1792238945663_9e0i3",
+      "username": "Tactician_523",
+      "elo": 1200,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "recentMatches": []
+    }
+  }
+}
